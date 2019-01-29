@@ -142,7 +142,7 @@ C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\obj\Debug\YNAB.Dotnet.De
 C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\bin\Debug\AutoUpdater.NET.dll
 C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\bin\Debug\AutoUpdater.NET.pdb
 C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\bin\Debug\AutoUpdater.NET.xml
-C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\obj\Debug\View\UpdateScreen.g.cs
-C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\obj\Debug\View\UpdateScreen.baml
 C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\obj\Debug\YNAB.Dotnet.DesktopApplication.csproj.CopyComplete
 C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\obj\Debug\YNAB.Dotnet.DesktopApplication.csprojAssemblyReference.cache
+C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\obj\Debug\View\AutoUpdater.g.cs
+C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\obj\Debug\View\AutoUpdater.baml

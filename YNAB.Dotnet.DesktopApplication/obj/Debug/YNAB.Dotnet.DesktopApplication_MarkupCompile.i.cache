@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\App.xaml
-4-1023180635
+4-1400714763
 
-16343653793
+161204997980
 14351140185
-MainWindow.xaml;View\ErrorMessage.xaml;View\LoginScreen.xaml;View\UpdateScreen.xaml;
+MainWindow.xaml;View\AutoUpdater.xaml;View\ErrorMessage.xaml;View\LoginScreen.xaml;
 
 False
 

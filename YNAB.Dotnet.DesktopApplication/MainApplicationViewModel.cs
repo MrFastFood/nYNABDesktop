@@ -16,7 +16,7 @@ namespace YNAB.Dotnet.DesktopApplication
         public MainApplicationViewModel()
         {
             DefaultTitle = "nYNAB Desktop";
-            SelectedPage = new UpdateScreen();
+            SelectedPage = new AutoUpdater();
         }
 
         #endregion

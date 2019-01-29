@@ -65,14 +65,14 @@
     <Compile Include="MainApplicationViewModel.cs" />
     <Compile Include="ViewModel\IViewModel.cs" />
     <Compile Include="ViewModel\LoginScreenViewModel.cs" />
+    <Compile Include="View\AutoUpdater.xaml.cs">
+      <DependentUpon>AutoUpdater.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\ErrorMessage.xaml.cs">
       <DependentUpon>ErrorMessage.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\LoginScreen.xaml.cs">
       <DependentUpon>LoginScreen.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="View\UpdateScreen.xaml.cs">
-      <DependentUpon>UpdateScreen.xaml</DependentUpon>
     </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -86,15 +86,15 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="View\AutoUpdater.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="View\ErrorMessage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="View\LoginScreen.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="View\UpdateScreen.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
