@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0.0</version>
-    <url>https://github.com/MrFastFood/nYNABDesktop/blob/Alpha/SetupFiles/Alpha/YNAB.Dotnet.Setup.msi</url>
+    <url>https://github.com/MrFastFood/nYNABDesktop/raw/Alpha/SetupFiles/Alpha/YNAB.Dotnet.Setup.msi</url>
     <mandatory>true</mandatory>
 </item>
