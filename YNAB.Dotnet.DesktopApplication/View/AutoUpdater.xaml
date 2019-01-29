@@ -9,7 +9,11 @@
       Background="Transparent"
       MaxHeight="350"
       MaxWidth="500"
-      Title="AutoUpdater">
+      xmlns:vm="clr-namespace:YNAB.Dotnet.DesktopApplication.ViewModel"
+      Title="Update">
+    <Page.DataContext>
+        <vm:AutoUpdaterViewModel/>
+    </Page.DataContext>
     <Page.Resources>
         <Style TargetType="TextBlock">
             <Setter Property="FontSize" Value="15"/>
@@ -66,8 +70,8 @@
 
 
                 <TextBlock Grid.Row="1" Text="Updating nYNAB. Please wait.." Foreground="Gray" TextAlignment="Center" VerticalAlignment="Bottom"/>
-                <ProgressBar Value="30" Grid.Row="2"/>
-                <TextBlock Text="Searching GitHub repo for updates. Please wait.." Grid.Row="3"/>
+                <ProgressBar Value="{Binding PercentageComplete, UpdateSourceTrigger=PropertyChanged}" Grid.Row="2"/>
+                <TextBlock Text="{Binding Status, UpdateSourceTrigger=PropertyChanged, FallbackValue='Searching GitHub for updates. Please wait..'}" Grid.Row="3"/>
 
             </Grid>
         </StackPanel>

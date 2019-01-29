@@ -24,3 +24,4 @@ C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\bin\Debug\AutoUpdater.NE
 C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\bin\Debug\AutoUpdater.NET.pdb
 C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\bin\Debug\AutoUpdater.NET.xml
 C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\obj\Debug\YNAB.Dotnet.DesktopApplication.csproj.CopyComplete
+C:\Projects\nYNABDesktop\YNAB.Dotnet.DesktopApplication\obj\Debug\YNAB.Dotnet.DesktopApplication.csprojAssemblyReference.cache

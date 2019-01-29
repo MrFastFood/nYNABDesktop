@@ -62,6 +62,7 @@
     </ApplicationDefinition>
     <Compile Include="Helper\RelayCommand.cs" />
     <Compile Include="MainApplicationViewModel.cs" />
+    <Compile Include="ViewModel\AutoUpdaterViewModel.cs" />
     <Compile Include="ViewModel\IViewModel.cs" />
     <Compile Include="ViewModel\LoginScreenViewModel.cs" />
     <Compile Include="View\AutoUpdater.xaml.cs">
